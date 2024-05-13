@@ -47,4 +47,17 @@ We bought batteries and an electric engine, registered the raft with the municip
 
 When moving to Paris my apartment came with two doors missing, so I got to work for having the option to seperate the living room from the hall way.
 
+Putting up a blanket to keep some heat in the room was always going to be an intermediate solution.
+
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/8D084D1D-DAC6-4854-AD62-92BD68D3DA29.jpeg?raw=true)
+
+After some research on leboncoin I found a door with the right width to fit the frame for a reasonable price. The hight however was turning into an issue as the characteristic pattern would be interupted by simply cutting it to shape. Starting by removing a symmetrical part on the bottom, I had to take piece out of the upper side pattern and fix the top back on.
+
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/camphoto_1804928587.jpeg?raw=true)
+
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/09647339-42C4-4F9A-B036-201E294A3FA9.jpeg?raw=true)
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/A7787DC7-E2A1-40F5-A33A-474523D7E614.jpeg?raw=true)
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/camphoto_1254324197.jpeg?raw=true)
+
+
 
