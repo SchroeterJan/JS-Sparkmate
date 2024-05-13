@@ -51,13 +51,17 @@ Putting up a blanket to keep some heat in the room was always going to be an int
 
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/8D084D1D-DAC6-4854-AD62-92BD68D3DA29.jpeg?raw=true)
 
-After some research on leboncoin I found a door with the right width to fit the frame for a reasonable price. The hight however was turning into an issue as the characteristic pattern would be interupted by simply cutting it to shape. Starting by removing a symmetrical part on the bottom, I had to take piece out of the upper side pattern and fix the top back on.
+After some research on leboncoin I found a door with the right width to fit the frame for a reasonable price. The hight however was an issue since the characteristic pattern would be interupted by simply cutting it to shape. Starting by removing a symmetrical part on the bottom, I had to take piece out of the upper side pattern.
 
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/camphoto_1804928587.jpeg?raw=true)
 
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/09647339-42C4-4F9A-B036-201E294A3FA9.jpeg?raw=true)
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/A7787DC7-E2A1-40F5-A33A-474523D7E614.jpeg?raw=true)
+
+I used dowels to connect both parts again in the right place.
+
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Door/camphoto_1254324197.jpeg?raw=true)
 
+After filling the remaining gaps and a paint job the result is not too bad for the work of a mechanical engineer with no wood working training.
 
-
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/finished_door.jpeg?raw=true)
