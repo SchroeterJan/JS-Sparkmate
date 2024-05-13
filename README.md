@@ -1,5 +1,5 @@
-### Portfolio for the Application as
-### Graduate Product Engineer (Hardware) at Sparkmate
+# Portfolio for the Application as
+# Graduate Product Engineer (Hardware) @ Sparkmate
 
 A brief look into the kind of things crafted or worked on in the past.
 
@@ -41,4 +41,10 @@ On the water, we continued by installing flooring, a frame structure and seats.
 We bought batteries and an electric engine, registered the raft with the municipality and had many memorable days and evenings.
 
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Raft/IMG_3358.jpeg?raw=true)
+
+
+## Door
+
+When moving to Paris my apartment came with two doors missing, so I got to work for having the option to seperate the living room from the hall way.
+
 
