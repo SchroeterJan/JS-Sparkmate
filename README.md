@@ -65,3 +65,24 @@ I used dowels to connect both parts again in the right place.
 After filling the remaining gaps and a paint job the result is not too bad for the work of a mechanical engineer with no wood working training.
 
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/finished_door.jpeg?raw=true)
+
+
+## Bikes
+
+An old 70s race bike from dutch brand "Batavus" got me into fixing up old bikes. I've since then become the supplier for my friends and family and have also started to work with cyclofficine in Paris, an association that offers bike workshops in the north of the city.
+
+My green Batavus racer in all original state from 1971 with a Shimano 600 Arabesque drive train.
+
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Bikes/IMG_9036.jpeg?raw=true)
+
+The first bike I had in Paris, now with a friend but I still take good care of it.
+
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Bikes/camphoto_1804928587.jpeg?raw=true)
+
+First complete makeover I did. A peugeot bike for a friends 30s birthday earlier this year.
+
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Bikes/IMG_0202.jpeg?raw=true)
+
+The italian sport bike from the 60s I ride at my parents place in the north of germany.
+
+![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Bikes/IMG_9720.jpeg?raw=true)
