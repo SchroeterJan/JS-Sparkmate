@@ -1,7 +1,7 @@
 # Portfolio for the Application as
 # Graduate Product Engineer (Hardware) @ Sparkmate
 
-A brief look into the kind of things crafted or worked on in the past.
+A brief look into the kind of things I crafted or worked on in the past.
 
 ## Raft
 
@@ -18,7 +18,7 @@ First crafting steps were:
 - painting
 - repeat grinding and painting
 
-A brief intermediate project came up when my grandfathers grinding machine broke down. But after installing new bearings it worked as good as new till this day.
+A brief intermediate project came up when my grandfathers grinding machine broke down. But after installing new bearings it works as good as new to this day.
 
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Raft/IMG_3978.jpeg?raw=true)
 ![alt text](https://github.com/SchroeterJan/JS-Sparkmate/blob/main/Raft/IMG_3993.jpeg?raw=true)
